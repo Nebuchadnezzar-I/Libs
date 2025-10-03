@@ -1,0 +1,2 @@
+- [ ] Finish lexer
+- [ ] Make basic parser
